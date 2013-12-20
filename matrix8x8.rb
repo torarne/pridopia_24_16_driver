@@ -18,7 +18,7 @@
 require "i2c/i2c"
 require "i2c/backends/i2c-dev"
 
-require_relative "../rpi"
+#require_relative "../rpi"
 
 # referenced: 
 #   https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code/blob/master/Adafruit_LEDBackpack/Adafruit_LEDBackpack.py
